@@ -2,9 +2,9 @@
 
 An Unlicense project of Enhancement to Aerosoft Toulouse for X-Plane
 
-*THIS PROJECT IS BASE ON A PAYWARE SCENERY*
+[*THIS PROJECT IS BASE ON A PAYWARE SCENERY*]
 
-*MEANS YOU VOID THE AEROSOFT SUPPORT WHILE USING THIS MOD*
+[*MEANS YOU VOID THE AEROSOFT SUPPORT WHILE USING THIS MOD*]
 
 the target is to make the scenery looks better and detailed, can be use to take a delivery flight or Beluga cargo
 
